@@ -1,9 +1,10 @@
 # Crab-Age-Estimator
 
 Competition: Kaggle Weekly ML Challenge 2 (https://www.kaggle.com/competitions/weekly-ml-challenge-2 )
+
 Final Score: 1.30
 
-This repository contains my solution for the Kaggle Weekly ML Challenge 2. The objective of the competition was to Predict house prices based on various features based on the given Dataset.
+This repository contains my solution for the Kaggle Weekly ML Challenge 2. The objective of the competition was predicting Crab Age using Crab Age Prediction Dataset available on Kaggle
 
 DATASET
 * The dataset was provided by Kaggle as part of the competition.
